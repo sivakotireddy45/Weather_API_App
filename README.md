@@ -29,4 +29,4 @@ Weather App is a simple web application that fetches and displays real-time weat
 💻 *Setup Instructions*
 1. Clone the repository:
 ```bash
-git clone <your-repo-url>
+git clone <https://github.com/sivakotireddy45/Weather_API_App>
