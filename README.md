@@ -1,4 +1,4 @@
-# 🌤 Weather App – 
+# 🌤 Weather App 
 A simple weather application that fetches and displays real-time weather data for any location.
 
 📌 *Project Overview*
