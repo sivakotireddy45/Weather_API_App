@@ -1,4 +1,5 @@
-# 🌤 Weather App – Real-Time Weather at Your Fingertips 🌍✨
+# 🌤 Weather App – 
+A simple weather application that fetches and displays real-time weather data for any location.
 
 📌 *Project Overview*
 
