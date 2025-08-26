@@ -8,12 +8,12 @@ Weather App is a simple web application that fetches and displays real-time weat
 🚀 *Features*
 
 ### 🌦 Weather Information:
-- ✅ *🌡 Real-Time Data* – Displays temperature, humidity, and weather conditions.  
-- ✅ *🔍 Search History* – Keeps track of recent searches for quick access.  
+- *🌡 Real-Time Data* – Displays temperature, humidity, and weather conditions.  
+- *🔍 Search History* – Keeps track of recent searches for quick access.  
 
 ### 🎨 User Experience:
-- ✅ *📱 Responsive Design* – Works on desktop and mobile devices.  
-- ✅ *💫 Neat UI* – Simple, user-friendly, and easy to navigate.  
+- *📱 Responsive Design* – Works on desktop and mobile devices.  
+- *💫 Neat UI* – Simple, user-friendly, and easy to navigate.  
 
 🛠 *Tech Stack*
 
