@@ -19,7 +19,11 @@ Weather App is a simple web application that fetches and displays real-time weat
 
 ### 🌐 Frontend:
 - ⚛ *React.js* – Interactive and dynamic UI.  
-- 🎨 *CSS / Tailwind* – Clean and responsive design.  
+- 🎨 *CSS / Tailwind* – Clean and responsive design.
+  <img width="1895" height="833" alt="image" src="https://github.com/user-attachments/assets/e82db402-7d8e-4735-970f-77797f674f25" />
+  <img width="1865" height="777" alt="image" src="https://github.com/user-attachments/assets/32af9c12-0716-47f0-b291-d490b8b6dda5" />
+
+  
 
 ### ⚙ Backend & API:
 - 🌿 *OpenWeatherMap API* – Fetches weather data efficiently.  
